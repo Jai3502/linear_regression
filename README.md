@@ -1,1 +1,1 @@
-# linear_regression
+# linear_regressionA linear equation is an algebraic equation in which each term is either a constant or the product of a constant and a single variable. Linear equations form the foundation of algebra and are widely used in mathematics, physics, engineering, data science, and real-world problem-solving.
